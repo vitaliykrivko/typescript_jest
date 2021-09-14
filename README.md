@@ -1,5 +1,6 @@
-#typescript_jest
-###Technical Exercise
+# typescript_jest
+
+### Technical Exercise
 
 __Prerequisites:__
 
